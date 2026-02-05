@@ -1,3 +1,9 @@
+<h1 align="center">🔐 JWT & RBAC Security</h1>
+<p align="center">
+  Secure Authentication using JSON Web Tokens <br/>
+  Role-Based Access Control for Authorized Operations
+</p>
+
 # 🏦 Bank Management System  
 ### 🔐 Secure Web Application using JWT & RBAC
 
